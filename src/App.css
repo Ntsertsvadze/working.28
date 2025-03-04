@@ -1,0 +1,21 @@
+.navbar {
+    background-color: cadetblue;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.navbar a {
+    margin-right: 40px;
+}
+
+.vertical{
+    flex-direction: column;
+}
+
+.horizontal{
+    flex-direction: row;
+}
+
+.active{
+    color: green;
+}
